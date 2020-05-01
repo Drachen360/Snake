@@ -1,0 +1,45 @@
+#big_canvas {
+      width: 700px;
+      height: 700px;
+      background-size: auto 350px;
+      background-color: lightblue;
+      background-position: center center;
+      padding: 0;
+      margin: 3px;
+
+    }1
+.button {
+    background-color: green;
+    color: white;
+ 	border: none;
+	height: 30px;
+	font-size: 12pt;
+	width: 90px;
+	margin: 10px 0 0 0;
+    }
+.button:hover {
+    background-color: orange;
+    }
+.button:disabled {
+   	background-color: grey;
+    }
+.buttonplay {
+	margin-left: 25%;
+}
+#p {
+   	font-family: Helvetica;
+    font-weight: bold;
+    width: 250px;
+    margin-left: 35%;
+    text-align: center;
+    }
+#home {
+   	text-align: center;
+    margin-top: calc(50vh - 350px);
+    }
+.game {
+    margin: 0;
+    }
+.button_posi {
+	margin-left: 40%;
+}
